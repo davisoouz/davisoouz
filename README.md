@@ -26,7 +26,7 @@ Possuo experiência com desenvolvimento de aplicações, bancos de dados relacio
 ## 🛠️ Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
 </p>
 
 <p align="center">
