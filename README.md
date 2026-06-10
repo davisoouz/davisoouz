@@ -17,15 +17,11 @@ Possuo experiência com desenvolvimento de aplicações, bancos de dados relacio
 <img src="https://skillicons.dev/icons?i=c,php,typescript,javascript,html,css,nodejs,react,vite,tailwind" />
 </p>
 
----
-
 ## 🗄️ Banco de Dados
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,firebase" />
 </p>
-
----
 
 ## 🛠️ Ferramentas
 
@@ -33,10 +29,6 @@ Possuo experiência com desenvolvimento de aplicações, bancos de dados relacio
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 </p>
 
-
-
----
-
 <p align="center">
-<a href="mailto:daviemanuel19y@gmail.com">Gmail</a> 
+<a href="mailto:daviemanuel19y@gmail.com">Gmail</a>
 </p>
