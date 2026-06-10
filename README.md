@@ -9,7 +9,6 @@ Graduando em Ciência da Computação, com foco em desenvolvimento de software e
 Possuo experiência com desenvolvimento de aplicações, bancos de dados relacionais, versionamento de código e construção de projetos voltados para resolução de problemas reais.
 </p>
 
----
 
 ## 🧠 Linguagens e Tecnologias
 
